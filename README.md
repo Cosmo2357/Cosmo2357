@@ -1,8 +1,8 @@
-Hi! I'm Yuhki. 
+Hi! I'm Yuhki. Natinality: Japan:jp: Lang: Japanese日本語, English and muy unpoco de espanol! :speech_balloon:  
 Hopefully, I can learn a lot here and find a lot of comfy friends all ovre the world. :earth_americas:
+
 - :smirk: Learning Vue.js especially JAMstack thingy. API and Database is so very fun part :blush:
-- :seedling: Interested in running my own app and web service too. 
-- :speech_balloon: I  speak both Japanese and English.  So if you need to I might be able to be a good partner  
+- :seedling: Interested in running my own app and web service too.  
 - :japanese_castle: Living between the cities where Himeji Castle and Kobe beef are famouse. :ox:  
 - :earth_americas: localize your app or business in Japan? feel free to contact me!
 - :robot: just bought Arudino clone and stack from the beginning as always
