@@ -11,5 +11,4 @@ Hi! I'm Yuhki. Hopefully, I can learn a lot here and find a lot of comfy friends
 - :guitar: loved Metal so much. But I love any kind of music now.  
 - :evergreen_tree: Camping-car and Tiny house in the frest or by the ocean are where I should belong to.
 <hr>
-JAMstack Vue.jsあたりをやってます。お仕事のお誘い・プロジェクトへのお誘い・世間話なんでもお気軽にー！
-
+JAMstack Vue.jsあたりをやってます。microPythonにはもまりそう。
