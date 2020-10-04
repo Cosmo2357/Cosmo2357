@@ -1,7 +1,7 @@
-Hi! I'm Yuhki.  
+Hi! I'm Yuhki. Hopefully, I can learn a lot here and find a lot of comfy friends all ovre the world. :earth_americas:   
 Natinality: Japan:jp:  
 Lang: Japanese日本語, English and muy unpoco de espanol! :speech_balloon:  
-Hopefully, I can learn a lot here and find a lot of comfy friends all ovre the world. :earth_americas:  
+ 
   
 - :smirk: Learning Vue.js especially JAMstack thingy. API and Database is so very fun part :blush:
 - :seedling: Interested in running my own app and web service too.  
