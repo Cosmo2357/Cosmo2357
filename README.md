@@ -2,7 +2,7 @@ Hi! I'm Yuhki. Hopefully, I can learn a lot here and find a lot of comfy friends
 - :jp: Natinality: Japan. Don't ask me about difficult New Anime! I had to learn about Pokemo for some reasones. But I am Dragonball and Doraemon generation.
 - :speech_balloon: Lang: Japanese日本語, English and muy unpoco de espanol! me gusto brito!
 - :pizza: Trying to become vegan to save the world once in a while mentally. At least I have soy meat.
-- :blush: Learning Vue.js especially JAMstack thingy. API and Database is very fun part.  
+- :blush: Learning Vue.js especially JAMstack thingy. API and Database is my my favorite part.  
 - :seedling: Interested in running my own app and web service too.  
 - :japanese_castle: Living between the cities where Himeji Castle and Kobe beef are famouse. 
 - :earth_americas: localize your app or business in Japan? feel free to contact me!
