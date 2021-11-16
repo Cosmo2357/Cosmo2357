@@ -5,5 +5,5 @@ Hi! I'm Yuhki. Hopefully, I can learn a lot here
 - :guitar: loved Metal so much. But I love any kind of music now.  
 
 <hr>
-[My Facebook Clone App: https://www.youtube.com/watch?v=SQrBN74io0Y](https://www.youtube.com/watch?v=SQrBN74io0Y)
+[My Facebook Clone App:](https://www.youtube.com/watch?v=SQrBN74io0Y)
 
