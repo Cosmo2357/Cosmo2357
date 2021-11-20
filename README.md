@@ -1,7 +1,7 @@
 Hi! I'm Yuhki. Hopefully, I can learn a lot here   
 - :jp: Natinality: Japan. 
 - :speech_balloon: Lang: Japanese日本語, English and muy unpoco de espanol! me gusto brito!
-- :blush: Learning React & Express server & AWS etc.  
+- :blush: React & Node.js.  
 - :guitar: loved Metal so much. But I love any kind of music now.  
 
 <hr>
