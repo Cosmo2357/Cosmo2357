@@ -1,6 +1,4 @@
 Hi! I'm Yuhki. Hopefully, I can learn a lot here   
-- :jp: Natinality: Japan. 
-- :speech_balloon: Lang: Japanese日本語, English and muy unpoco de espanol! me gusto brito!
 - :blush: React & React Native & Node.js.  
 - :guitar: I love music.  
 - :surfer: SUP
