@@ -6,8 +6,7 @@
 |Personality|Friendly 😄|
 |Job| Programmer mostly web-fronted, but backend and mobile too |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing |
-|Destination Plan |🇯🇵 Hyogo prefecture => Hopefully in 2023 🇵🇭 Cebu IT Park
-| 
+|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭Cebu IT Park| 
 
 ## 💻 Tech stack
 |Frontend|
