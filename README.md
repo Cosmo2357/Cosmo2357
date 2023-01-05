@@ -2,7 +2,7 @@
 |Key| Value|
  | :--- | :---|
 |nationality| 🇯🇵 JAPAN |
-|Language| Japanese, English and lii bit of spanish, etc...
+|Language| Japanese, English and lil bit of spanish, etc...
 |Personality|Friendly for no reason 😄 |
 |Job| Software Developer mostly web-frontend, Sometimes backend and mobile too. |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
