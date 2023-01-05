@@ -1,12 +1,13 @@
 ## 👨‍💻 Profile
 |Key| Value|
- | :--- |---|
+ | :--- | :---|
 |nationality| 🇯🇵 JAPAN |
 |Language| Japanese, English and lii bit of spanish, etc...
-|Personality|Friendly 😄|
-|Job| Programmer mostly web-fronted, but backend and mobile too |
-|Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing |
-|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭Cebu IT Park| 
+|Personality|Friendly for no reason 😄 |
+|Job| Programmer mostly web-fronted, Sometimes backend and mobile too |
+|Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
+|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝| 
+|Short term goal|📙 AWS solution architect - associate|
 
 ## 💻 Tech stack
 |Frontend|
