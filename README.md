@@ -4,10 +4,11 @@
 |nationality| 🇯🇵 JAPAN |
 |Language| Japanese, English and lii bit of spanish, etc...
 |Personality|Friendly for no reason 😄 |
-|Job| Programmer mostly web-fronted, Sometimes backend and mobile too |
+|Job| Software Developer mostly web-fronted, Sometimes backend and mobile too. |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
 |Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝| 
 |Short term goal|📙 AWS solution architect - associate|
+|Fluffy Family | 🐈‍⬛ Rescued cat   |
 
 ## 💻 Tech stack
 |Frontend|
@@ -26,21 +27,21 @@
 ## 🍳 kind of like a Portfolio...
 
 
-| Facebook Clone | 
+| Facebook Clone  2021| 
 | :--- | 
 |TypeScript, Node.js, MySQL, DynamoDB, etc...|
 <a href="https://www.youtube.com/watch?v=SQrBN74io0Y"> 
 <img src="https://user-images.githubusercontent.com/37522195/210761347-3541dc4a-65dd-4ea1-9bb0-459aa272172b.jpeg" width="50%" />
 </a>
 
-| TikTok Clone | 
+| TikTok Clone 2021| 
 | :--- | 
 |TypeScript, Node.js, MySQL, DynamoDB, etc...|
 <a href="https://youtu.be/J2nUzPpPBzY"> 
 <img src="https://user-images.githubusercontent.com/37522195/210765586-4cacf08c-0030-4941-a713-452ded5e40ad.jpeg" width="50%" />
 </a>
 
-| 3D game Project | 
+| 3D game Project 2022| 
 | :--- | 
 |Unity|
 
