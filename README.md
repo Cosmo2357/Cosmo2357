@@ -24,7 +24,7 @@
 | :--- |
 |Flutter, ReactNative,|
 
-## 🍳 kind of like a Portfolio...
+## 🍳 Portfolio...???
 
 
 | Facebook Clone  2021| 
