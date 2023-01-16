@@ -49,4 +49,11 @@
 <img src="https://user-images.githubusercontent.com/37522195/210768164-ce4db1da-6682-45c4-a025-d9d8d9cb5f4f.jpeg" width="50%" />
 </a>
 
+| OpenAI & Unity Project 2023| 
+| :--- | 
+|Unity, OpenAI, deeple, etc.|
+
+<a href="https://youtu.be/8qPKZFM_hIs">
+<img src="https://user-images.githubusercontent.com/37522195/212603429-9c9cb167-070c-4eee-b0aa-417836d95b6f.jpeg" width="50%" />
+</a>
 
