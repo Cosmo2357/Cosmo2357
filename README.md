@@ -30,7 +30,7 @@
 | Facebook Clone  2021| 
 | :--- | 
 |React, TypeScript, Node.js, Express, MySQL, etc...|
-<a href="https://www.youtube.com/watch?v=SQrBN74io0Y"> 
+<a href="https://youtu.be/vuIHmdq-yAI"> 
 <img src="https://user-images.githubusercontent.com/37522195/210761347-3541dc4a-65dd-4ea1-9bb0-459aa272172b.jpeg" width="50%" />
 </a>
 
