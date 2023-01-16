@@ -51,7 +51,7 @@
 
 | OpenAI & Unity Project 2023| 
 | :--- | 
-|Unity, OpenAI, deeple, etc.|
+|Unity, React, OpenAI, deeple, etc.|
 
 <a href="https://youtu.be/8qPKZFM_hIs">
 <img src="https://user-images.githubusercontent.com/37522195/212603429-9c9cb167-070c-4eee-b0aa-417836d95b6f.jpeg" width="50%" />
