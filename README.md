@@ -59,6 +59,7 @@
 
 | blender experience 2022| 
 | :--- | 
-||
-![blender](https://user-images.githubusercontent.com/37522195/215237119-39668349-3aa4-457b-9e6b-9af6a5ac3bd5.jpg)
+|![blender (1)](https://user-images.githubusercontent.com/37522195/215237470-6d6e8aa2-bdd8-4912-9afd-8f347750543b.jpg)|
+
+
 
