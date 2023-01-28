@@ -6,7 +6,7 @@
 |Personality|Friendly for no reason 😄 |
 |Job| Software Developer mostly web-frontend, Sometimes backend and mobile too. |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
-|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝 => cloud9? => 🏄😁💻| 
+|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝 => 2004 cloud9? => 🏄😁💻| 
 |Short term goal|📙 AWS solution architect - associate|
 |Fluffy Family | 🐈‍⬛ Rescued cat   |
 
