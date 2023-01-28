@@ -6,7 +6,7 @@
 |Personality|Friendly for no reason 😄 |
 |Job| Software Developer mostly web-frontend, Sometimes backend and mobile too. |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
-|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝| 
+|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝| => 🏄😁💻
 |Short term goal|📙 AWS solution architect - associate|
 |Fluffy Family | 🐈‍⬛ Rescued cat   |
 
@@ -56,4 +56,9 @@
 <a href="https://youtu.be/8qPKZFM_hIs">
 <img src="https://user-images.githubusercontent.com/37522195/212603429-9c9cb167-070c-4eee-b0aa-417836d95b6f.jpeg" width="50%" />
 </a>
+
+| blender experience 2022| 
+| :--- | 
+||
+![blender](https://user-images.githubusercontent.com/37522195/215237119-39668349-3aa4-457b-9e6b-9af6a5ac3bd5.jpg)
 
