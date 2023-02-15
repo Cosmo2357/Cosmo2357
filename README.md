@@ -18,7 +18,7 @@
 
 | Backend | 
 | :--- | 
-|TypeScript, Node.js, MySQL, DynamoDB, etc...|
+|Python, TypeScript, Node.js, MySQL, DynamoDB, etc...|
 
 |Mobile| 
 | :--- |
