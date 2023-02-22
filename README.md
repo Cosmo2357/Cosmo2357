@@ -7,7 +7,7 @@
 |Job| Software Developer mostly web-frontend, Sometimes backend and mobile too. |
 |Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
 |Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝 => 2024 cloud9? => 🏄😁💻| 
-|Short term goal|mastering AI and Swift🧠📱|
+|Short term goal|🧠Mastering AI and Swift📱|
 |Fluffy Family | 🐈‍⬛ Rescued cat   |
 
 ## 💻 Tech stack
