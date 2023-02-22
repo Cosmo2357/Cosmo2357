@@ -24,6 +24,11 @@
 | :--- |
 |Flutter, ReactNative,|
 
+|AI| 
+| :--- |
+|PyTorch|
+
+
 ## 🍳 Portfolio...???
 
 
