@@ -1,4 +1,5 @@
 ## 👨‍💻 Profile
+## $ Y_i = f(X_i β) + e_i $
 |Key| Value|
  | :--- | :---|
 |nationality| 🇯🇵 JAPAN |
