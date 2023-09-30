@@ -61,6 +61,8 @@
 <img src="https://user-images.githubusercontent.com/37522195/212603429-9c9cb167-070c-4eee-b0aa-417836d95b6f.jpeg" width="50%" />
 </a>
 
+<a href="https://youtu.be/c9HJ10EBNec?si=lKOkCZmxAxKmSODU" />
+
 | blender experience 2022| 
 | :--- | 
 |![blender (1)](https://user-images.githubusercontent.com/37522195/215237470-6d6e8aa2-bdd8-4912-9afd-8f347750543b.jpg)|
