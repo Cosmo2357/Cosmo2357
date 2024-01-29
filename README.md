@@ -1,7 +1,7 @@
 # 😎 Preparing for my Awesome Startup
 
 Hi I'm Yuhki, Fullstack Software Developer from JAPAN 🇯🇵　    
-speaks both English, Japanese    
+Speaks both English, Japanese    
 Techstack: React, React Native Expo, Express    
 😃 Feel free to message me to hayashi.yuhki@gmail.com  if you are Angel or VC
 
