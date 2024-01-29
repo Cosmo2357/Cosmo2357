@@ -1,44 +1,17 @@
-# 😎 Preparing for my Awesome Global Startup Company
+<h1 align="center">Hi 👋, I'm Yuhki Hayashi, Preparing for my Startup</h1>
+<h3 align="center">Full-Stack developer from JAPAN 🇯🇵　</h3>
+<h3 align="center"> Feel free to message me to contact me if you are Angel or VC😃</h3>
 
-Hi I'm Yuhki, Fullstack Software Developer from JAPAN 🇯🇵　    
-Speaks both English, Japanese    
-Techstack: React, React Native Expo, Express    
-😃 Feel free to message me to hayashi.yuhki@gmail.com  if you are Angel or VC
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yufuki-hayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yufuki-hayashi" height="30" width="40" /></a>
+<a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-##### ⇩Random Portfolio for job hunting⇩
-## Cesium Project 2023    
-Cesium    
-<a href="https://youtu.be/c9HJ10EBNec?si=lKOkCZmxAxKmSODU"> 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37522195/271764795-2cfd8d9a-7b08-49cd-8b8f-e0fa95f31026.png" width="50%" />
-<a/>
-
-## Facebook Clone  2021    
-React, TypeScript, Node.js, Express, MySQL, etc...    
-<a href="https://youtu.be/vuIHmdq-yAI"> 
-<img src="https://user-images.githubusercontent.com/37522195/210761347-3541dc4a-65dd-4ea1-9bb0-459aa272172b.jpeg" width="50%" />
-</a>
-    
-    
-## TikTok Clone 2021    
-ReactNative, Node.js, etc...    
-<a href="https://youtu.be/J2nUzPpPBzY"> 
-<img src="https://user-images.githubusercontent.com/37522195/210765586-4cacf08c-0030-4941-a713-452ded5e40ad.jpeg" width="50%" />
-</a>
-
-    
-## 3D game Project 2022    
-Unity    
-<a href="https://youtu.be/rX1XzS6Kqpo"> 
-<img src="https://user-images.githubusercontent.com/37522195/210768164-ce4db1da-6682-45c4-a025-d9d8d9cb5f4f.jpeg" width="50%" />
-</a>
-
-    
-## OpenAI & Unity Project 2023    
-Unity, React, OpenAI, deeple, etc...    
-<a href="https://youtu.be/8qPKZFM_hIs">
-<img src="https://user-images.githubusercontent.com/37522195/212603429-9c9cb167-070c-4eee-b0aa-417836d95b6f.jpeg" width="50%" />
-</a>
     
 
 
