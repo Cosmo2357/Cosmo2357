@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yuhki Hayashi, Preparing for my Startup</h1>
-<h3 align="center">Full-Stack developer from JAPAN 🇯🇵　</h3>
-<h3 align="center"> Feel free to message me to contact me if you are Angel or VC😃</h3>
+![github-header-image](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/aff6a927-569f-4317-a49d-12f87d115642)
+
+
+<h3> Feel free to message me to contact me especially if you are Angel or VC😃</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
