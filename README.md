@@ -1,34 +1,9 @@
 ## 👨‍💻 Profile
-|Key| Value|
- | :--- | :---|
-|nationality| 🇯🇵 JAPAN |
-|Language| Japanese, English and lil bit of spanish, etc...
-|Personality|Friendly for no reason 😄 |
-|Job| Software Developer mostly web-frontend, Sometimes backend and mobile too. |
-|Hobby|Music, Photo, SUP, Learning Languages and Cultures,  Programing 🎸|
-|Destination Plan |🇯🇵 Japan => Hopefully in 2023 🇵🇭 Cebu IT Park 🏝 => 2024 cloud9? => 🏄😁💻| 
-|Fluffy Family | 🐈‍⬛ Rescued cat   |
+- 🇯🇵 JAPAN
+- English, Japanese
+- Fullstack Software Developer
+- React, React Native Expo, Express
 
-## 💻 Tech stack
-|Frontend|
- | :--- |
-|TypeScript, React, Next|
-
-
-| Backend | 
-| :--- | 
-|TypeScript, Node.js, MySQL, DynamoDB, etc...|
-
-|Mobile| 
-| :--- |
-|Flutter, ReactNative,|
-
-|AI| 
-| :--- |
-|PyTorch|
-
-
-## 🍳 Portfolio...???
 
 
 | Facebook Clone  2021| 
