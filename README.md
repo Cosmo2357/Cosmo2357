@@ -1,4 +1,4 @@
-# 😎 Preparing for my Awesome Startup
+# 😎 Preparing for my Awesome Global Startup Company
 
 Hi I'm Yuhki, Fullstack Software Developer from JAPAN 🇯🇵　    
 Speaks both English, Japanese    
