@@ -1,5 +1,6 @@
-![github-header-image](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/aff6a927-569f-4317-a49d-12f87d115642)
 
+![401505789_10230052236627515_7584725353427171543_n](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/3a53e3df-d0bf-4877-9d9f-ca7fecdad401)
+![github-header-image](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/aff6a927-569f-4317-a49d-12f87d115642)
 
 <h3> Feel free to contact me especially if you are Angel or VC😃</h3>
 
