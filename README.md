@@ -1,13 +1,20 @@
 
 ![Dark Gray and Beige Minimalist Quote Twitter Header](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dc746afd-4487-4918-9a7b-aa23381ebbeb)
 
-<p> Feel free to contact me especially if you are Angel or VC😃</p>
 
+## About me 👋
+Hi! I'm full-stack developer. I work remotely from anywhere.  
+I'm preparing for starting my start-up. so I need a lots of friends.  
+it would be nice if you use typescript, react native, react, express, redis, etc...  
+Feel free to contact me if you are Programmer or Angel or VC 😃  
 
+## CONTACT ME
 <p align="left">
 <a href="https://linkedin.com/in/yufuki-hayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yufuki-hayashi" height="30" width="40" /></a>
 <a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
 </p>
+
+## MY TECH STACK
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
