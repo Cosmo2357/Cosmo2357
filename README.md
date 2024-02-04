@@ -1,7 +1,7 @@
 
 ![Dark Gray and Beige Minimalist Quote Twitter Header](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dc746afd-4487-4918-9a7b-aa23381ebbeb)
 
-<h3> Feel free to contact me especially if you are Angel or VC😃</h3>
+<p> Feel free to contact me especially if you are Angel or VC😃</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
