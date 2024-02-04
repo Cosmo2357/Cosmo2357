@@ -5,7 +5,7 @@
 ## About me 👋
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.    
 I'm preparing for starting my start-up. so I need a lots of friends.  
-I might be able to give you a nice position since it will be a new company. 
+I might be able to give you nice position since it will be a new company.  
 it would be nice if you use typescript, react native, react, express, redis, etc...  
 Feel free to contact me if you are Programmer or Angel or VC  
 I'm super friendly 😃  
