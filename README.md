@@ -3,7 +3,7 @@
 
 
 ## About me 👋
-Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.    
+Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
 I'm preparing for starting my start-up. 
 I might be able to give you nice position since it will be a new company.  
 it would be nice if you use typescript, react native, react, express, redis, etc...  
