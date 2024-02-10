@@ -8,7 +8,8 @@ I'm preparing for starting my start-up.
 I might be able to give you nice position since it will be a new company.  
 it would be nice if you use typescript, react native, react, express, redis, etc...   
 Feel free to contact me if you are Programmer or Angel or VC  
-btw, I'm super friendly guy 😃  
+btw, I'm a cat lover 😃  
+![2zKU](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/7ac5b500-7067-43ff-be83-bc555b887a76)
 
 ## CONTACT ME
 <p align="left">
@@ -70,3 +71,4 @@ Cesium
 <a href="https://youtu.be/c9HJ10EBNec?si=lKOkCZmxAxKmSODU"> 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37522195/271764795-2cfd8d9a-7b08-49cd-8b8f-e0fa95f31026.png" width="50%" />
 <a/>
+
