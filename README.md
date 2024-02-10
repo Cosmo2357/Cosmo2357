@@ -9,7 +9,9 @@ I might be able to give you nice position since it will be a new company.
 it would be nice if you use typescript, react native, react, express, redis, etc...   
 Feel free to contact me if you are Programmer or Angel or VC  
 btw, I'm a cat lover 😃  
-![2zKU](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/7ac5b500-7067-43ff-be83-bc555b887a76)
+  
+![Animated_Cat_on_PC](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/cbcb0e38-482a-46b6-9f1a-dc0c21a6714f)
+
 
 ## CONTACT ME
 <p align="left">
