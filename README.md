@@ -6,7 +6,7 @@
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
 I'm preparing for starting my start-up. 
 I might be able to give you nice position since it will be a new company.  
-it would be nice if you use typescript, react native, react, express, redis, etc...   
+it would be nice if you use typescript, react native, react, express, kafka, cassandra, python etc...   
 Feel free to contact me if you are Programmer or Angel or VC  
 btw, I'm a cat lover 😃   
   
