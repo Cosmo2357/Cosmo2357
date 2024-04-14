@@ -1,4 +1,3 @@
-
 ![Dark Gray and Beige Minimalist Quote Twitter Header](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dc746afd-4487-4918-9a7b-aa23381ebbeb)
 
 
@@ -63,6 +62,10 @@ btw, I'm a cat lover 😃
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+
+|||
+|---|---|
+|![スクリーンショット 2024-04-14 23 03 08](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/2ed903a5-1536-4a97-b4e0-74e1ad98fc30)|![スクリーンショット 2024-04-14 21 42 39](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dd4e44e2-2c50-4a62-82dc-9f39ea5b6a4f)|
 
 
 
