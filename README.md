@@ -1,23 +1,4 @@
-![Dark Gray and Beige Minimalist Quote Twitter Header](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dc746afd-4487-4918-9a7b-aa23381ebbeb)
 
-
-## About me 👋
-Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
-I'm preparing for starting my start-up. 
-I might be able to give you nice position since it will be a new company.  
-it would be nice if you use typescript, react native, react, express, kafka, cassandra, python etc...   
-Feel free to contact me if you are Programmer or Angel or VC  
-btw, I'm a cat lover 😃   
-  
-![Animated_Cat_on_PC](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/cbcb0e38-482a-46b6-9f1a-dc0c21a6714f)
-
-
-## CONTACT ME
-<p align="left">
-<a href="https://linkedin.com/in/yufuki-hayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yufuki-hayashi" height="30" width="40" /></a>
-<a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
-</p>
-<p>hayashi.yuhki@gmail.com</p>
 
 ## MY TECH STACK
 
@@ -69,6 +50,21 @@ btw, I'm a cat lover 😃
 
 
 
+## About me 👋
+Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
+I'm preparing for starting my start-up. 
+I might be able to give you nice position since it will be a new company.  
+it would be nice if you use typescript, react native, react, express, kafka, cassandra, python etc...   
+Feel free to contact me if you are Programmer or Angel or VC  
+btw, I'm a cat lover 😃   
+  
+
+## CONTACT ME
+<p align="left">
+<a href="https://linkedin.com/in/yufuki-hayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yufuki-hayashi" height="30" width="40" /></a>
+<a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
+</p>
+<p>hayashi.yuhki@gmail.com</p>
     
 
 ## Cesium Project 2023    
