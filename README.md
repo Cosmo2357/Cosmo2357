@@ -44,9 +44,10 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-|||
+|Stanford Online - Introduction to Statistics|University of Glasgow - MBA Essentials|
 |---|---|
-|![スクリーンショット 2024-04-14 23 03 08](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/2ed903a5-1536-4a97-b4e0-74e1ad98fc30)|![スクリーンショット 2024-04-14 21 42 39](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dd4e44e2-2c50-4a62-82dc-9f39ea5b6a4f)|
+|![スクリーンショット 2024-04-14 23 03 08](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/2ed903a5-1536-4a97-b4e0-74e1ad98fc30)|![スクリーンショット 2024-05-02 2 25 09](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/76d0770d-d367-4098-b261-447ebd416994)|
+|![スクリーンショット 2024-05-09 1 17 56](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4d28da1-0f6a-4c98-be6a-6d38282d7d66)|![スクリーンショット 2024-04-14 21 42 39](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dd4e44e2-2c50-4a62-82dc-9f39ea5b6a4f)|
 
 
 
