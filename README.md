@@ -44,14 +44,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-|||
-|---|---|
-|![スクリーンショット 2024-05-09 2 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ded89c3a-7495-4f51-9d28-a44438f4c1ed)|![スクリーンショット 2024-05-02 2 25 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5)|
-|![スクリーンショット 2024-05-09 1 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9486622c-e78a-4967-9df8-98fd386b9178)|![スクリーンショット 2024-04-14 21 42 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/8b341931-cae7-4734-8746-638db557172c)|
-
-
-
-
 ## About me 👋
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
 I'm preparing for starting my start-up. 
@@ -67,6 +59,12 @@ btw, I'm a cat lover 😃
 <a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
 </p>
 <p>hayashi.yuhki@gmail.com</p>
+
+|||
+|---|---|
+|![スクリーンショット 2024-05-09 2 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ded89c3a-7495-4f51-9d28-a44438f4c1ed)|![スクリーンショット 2024-05-02 2 25 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5)|
+|![スクリーンショット 2024-05-09 1 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9486622c-e78a-4967-9df8-98fd386b9178)|![スクリーンショット 2024-04-14 21 42 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/8b341931-cae7-4734-8746-638db557172c)|
+
     
 
 ## Cesium Project 2023    
