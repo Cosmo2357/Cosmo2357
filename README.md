@@ -43,6 +43,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+![badgefixed](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/78e97abd-5c7a-46f2-8b7e-7ab3f1f35732)
+
+
 
 ## About me 👋
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
