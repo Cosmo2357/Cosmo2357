@@ -67,11 +67,24 @@ btw, I'm a cat lover 😃
 |![スクリーンショット 2024-05-09 1 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9486622c-e78a-4967-9df8-98fd386b9178)|![スクリーンショット 2024-04-14 21 42 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/8b341931-cae7-4734-8746-638db557172c)|
 |![スクリーンショット 2024-05-27 1 25 17](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/cf3a3088-8abb-420e-aaad-69719e48b604)|![MetaReactNative](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/06c86aeb-9358-4733-9d27-40aa09652114)|
 
-    
 
 ## Cesium Project 2023    
 Cesium    
 <a href="https://youtu.be/c9HJ10EBNec?si=lKOkCZmxAxKmSODU"> 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37522195/271764795-2cfd8d9a-7b08-49cd-8b8f-e0fa95f31026.png" width="50%" />
 <a/>
+
+
+## Example Project
+
+![project](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/af3ebf1f-285d-4c1a-8dda-594d61802c44)
+
+![Slice 2](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/0462278b-3642-44e9-a4a9-99306ff44059)
+
+![newwireframe](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/1fd6eee3-d75b-444b-9906-2bd98052fa2f)
+
+![wiresize](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/d6d79a15-e56f-44b6-814f-2ac7f1eccf6a)
+
+![333](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/3a2e24bf-a33c-4a34-bffb-e13b3801d1fa)
+
 
