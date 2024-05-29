@@ -43,11 +43,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-![googleP](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/eacffc85-86af-4296-9c85-1ca03d5c8805)
-![GoogleS](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/464608cb-2055-40b7-b1b9-495568045250)
-![MetaF](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/40dac50f-157c-4c2e-9ea7-d853cfc7396f)
-![IBMP](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/94071998-84a0-437d-9547-a8fd741298e4)
-
+![gp2](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/41b334f5-d7fa-442b-87c8-fb7d13473cc2)
+![gs2](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/77a9921d-93d6-46dc-a72b-39909c842f49)
+![mf2](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e81c1164-634f-4268-8ff5-f8a1e81f5687)
+![ia](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/1752c998-8815-4007-96fe-4e52eaf7bb16)
 
 ## About me 👋
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
