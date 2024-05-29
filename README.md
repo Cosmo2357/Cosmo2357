@@ -43,10 +43,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/41b334f5-d7fa-442b-87c8-fb7d13473cc2" alt="gp2" width="200" height="auto">
-<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/77a9921d-93d6-46dc-a72b-39909c842f49" alt="gp2" width="200" height="auto">
-<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e81c1164-634f-4268-8ff5-f8a1e81f5687" alt="gp2" width="200" height="auto">
-<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/1752c998-8815-4007-96fe-4e52eaf7bb16" alt="gp2" width="200" height="auto">
+<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dda4d694-c339-41c9-8a0a-d53620d0dfec" alt="gp2" width="200" height="auto">
+<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ea569829-f9a8-43e6-87a6-a0f4b59b63fb" alt="gp2" width="200" height="auto">
+<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/237f809b-91e9-46c9-a089-58bd1003f7f1" alt="gp2" width="200" height="auto">
+<img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/85f424c4-79d5-4d03-b486-c5b655d0581f" alt="gp2" width="200" height="auto">
 
 ## About me 👋
 Hi! I'm full-stack developer. Currently working for Japanese IT company remotely.     
