@@ -43,8 +43,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-![badgefixed](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/78e97abd-5c7a-46f2-8b7e-7ab3f1f35732)
-
+![googleP](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/eacffc85-86af-4296-9c85-1ca03d5c8805)
+![GoogleS](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/464608cb-2055-40b7-b1b9-495568045250)
+![MetaF](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/40dac50f-157c-4c2e-9ea7-d853cfc7396f)
+![IBMP](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/94071998-84a0-437d-9547-a8fd741298e4)
 
 
 ## About me 👋
