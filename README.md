@@ -70,13 +70,13 @@ btw, I'm a cat lover 😃
 |![スクリーンショット 2024-05-28 19 50 29](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9c1c754e-2655-4ec3-b4fe-5cf4b78344d2)|![ibmai](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49)|
 
 
-## Cesium Project 2023    
+##  2023 Cesium Project 
 Cesium    
 <a href="https://youtu.be/c9HJ10EBNec?si=lKOkCZmxAxKmSODU"> 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37522195/271764795-2cfd8d9a-7b08-49cd-8b8f-e0fa95f31026.png" width="50%" />
 <a/>
 
-## Facebook clone || Dec 2021 with React Node.js Express backend and MySql
+## Dec 2021  Facebook clone || React Node.js Express backend and MySql
 <a href="https://youtu.be/Hv_jddjDjfA?si=5CK6LI77pCsOoNLp"> 
 <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/a9b3aa3d-b5c3-4278-9cde-05e4261da163" width="50%" />
 <a/>
