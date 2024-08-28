@@ -86,6 +86,8 @@ Cesium
 
 ![project](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/af3ebf1f-285d-4c1a-8dda-594d61802c44)
 
+work in progress githubPage: https://cosmo2357.github.io/
+
 ![Slice 2](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/0462278b-3642-44e9-a4a9-99306ff44059)
 
 ![newwireframe](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/1fd6eee3-d75b-444b-9906-2bd98052fa2f)
