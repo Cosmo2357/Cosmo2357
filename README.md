@@ -1,6 +1,9 @@
 work in progress githubPage: https://cosmo2357.github.io/
 
 ## MY TECH STACK
+Mobile: React Native(Expo)
+Desktop: Tauri Win & Mac & Linux
+WebApp: Remix, React
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
