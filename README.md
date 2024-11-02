@@ -2,7 +2,7 @@ work in progress githubPage: https://cosmo2357.github.io/
 
 ## MY TECH STACK
 Mobile: React Native(Expo)  
-Desktop: Tauri Win & Mac & Linux  
+DesktopApp: Tauri Win & Mac & Linux  
 WebApp: Remix(Fullstack), React  
 Serverless: Hono  
 
