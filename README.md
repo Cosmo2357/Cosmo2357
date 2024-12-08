@@ -81,7 +81,7 @@ Cesium
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37522195/271764795-2cfd8d9a-7b08-49cd-8b8f-e0fa95f31026.png" width="50%" />
 <a/>  
 This system is built upon TLE (Two-Line Element Set) data provided by Space-Track.org, an official service managed by the United States Air Force (USAF) and the United States Space Command (USSPACECOM).   
-「本システムは、アメリカ空軍（US Air Force）およびアメリカ宇宙コマンド（USSPACECOM）が管理する公式サービスであるSpace-Track.orgが提供するTLE（Two-Line Element Set）データを基に構築されています。  
+本システムは、アメリカ空軍（US Air Force）およびアメリカ宇宙コマンド（USSPACECOM）が管理する公式サービスであるSpace-Track.orgが提供するTLE（Two-Line Element Set）データを基に構築されています。  
 
 ## Dec 2021  Facebook clone || React Node.js Express backend and MySql
 <a href="https://youtu.be/Hv_jddjDjfA?si=5CK6LI77pCsOoNLp"> 
