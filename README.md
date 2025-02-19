@@ -2,8 +2,7 @@ work in progress githubPage: https://cosmo2357.github.io/
 
 ## MY TECH STACK
 Mobile: React Native(Expo)  
-DesktopApp: Tauri Win & Mac & Linux  
-WebApp: Remix(Fullstack), React  
+WebApp: Remix, Next(Fullstack), React  
 Serverless: Hono  
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
