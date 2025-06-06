@@ -63,7 +63,6 @@ btw, I'm a cat lover 😃
 <a href="https://linkedin.com/in/yufuki-hayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yufuki-hayashi" height="30" width="40" /></a>
 <a href="https://fb.com/hayashi.yuhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayashi.yuhki" height="30" width="40" /></a>
 </p>
-<p>hayashi.yuhki@gmail.com</p>
 
 
 |![スクリーンショット 2024-05-09 2 17 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ded89c3a-7495-4f51-9d28-a44438f4c1ed)|![スクリーンショット 2024-05-02 2 25 1](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5)|
