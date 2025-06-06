@@ -1,4 +1,4 @@
-work in progress githubPage: https://cosmo2357.github.io/
+
 
 ## MY TECH STACK
 Mobile: React Native(Expo)  
