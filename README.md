@@ -1,7 +1,7 @@
 
 
 ## MY TECH STACK
-Mobile: React Native(Expo)  
+Mobile: React Native(Expo), Flutter    
 WebApp: Remix, Next(Fullstack), React  
 DesktopApp: Tauri  
 Bun, Node.js, Hono, Express 
