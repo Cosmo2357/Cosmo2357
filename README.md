@@ -3,7 +3,7 @@
 ## MY TECH STACK
 Mobile: React Native(Expo)  
 WebApp: Remix, Next(Fullstack), React  
-Desktop: Tauri  
+DesktopApp: Tauri  
 Bun, Node.js, Hono, Express 
 
 
