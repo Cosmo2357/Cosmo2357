@@ -3,7 +3,7 @@
 ## MY TECH STACK
 Mobile: React Native(Expo), Flutter    
 WebApp: Next(Fullstack), Remix/React Router7(Fullstack), React  
-DesktopApp: Tauri  
+DesktopApp: Electron    
 Backend: Bun, Node.js, Hono, Express  
 AI: Claude Code, Copilot  
 
