@@ -2,9 +2,11 @@
 
 ## MY TECH STACK
 Mobile: React Native(Expo), Flutter    
-WebApp: Remix, Next(Fullstack), React  
+WebApp: Next(Fullstack), Remix/React Router7(Fullstack), React  
 DesktopApp: Tauri  
-Bun, Node.js, Hono, Express 
+Backend: Bun, Node.js, Hono, Express  
+AI: Claude Code, Copilot  
+
 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -105,5 +107,6 @@ This system is built upon TLE (Two-Line Element Set) data provided by Space-Trac
 ![wiresize](https://github.com/Cosmo2357/CapstoneReactApp/assets/37522195/d6d79a15-e56f-44b6-814f-2ac7f1eccf6a)
 
 ![333](https://github.com/Cosmo2357/Cosmo2357/assets/37522195/3a2e24bf-a33c-4a34-bffb-e13b3801d1fa)
+
 
 
