@@ -8,6 +8,7 @@
 </p>
 
 
+
 <hr/>
 
 <!-- ===== About Me ===== -->
@@ -57,29 +58,26 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <tr>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ded89c3a-7495-4f51-9d28-a44438f4c1ed" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f65ce647-88a5-492d-a920-088d564dcee2" width="100%"/></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" width="100%"/></td>
+    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f2dfdb8b-f714-430f-ab62-9c75e08f558c" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9486622c-e78a-4967-9df8-98fd386b9178" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/8b341931-cae7-4734-8746-638db557172c" width="100%"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/cf3a3088-8abb-420e-aaad-69719e48b604" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/28f5321f-360e-4415-95f3-b52f2d37ab81" width="100%"/></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9c1c754e-2655-4ec3-b4fe-5cf4b78344d2" width="100%"/></td>
-    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" width="100%"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b93b7f24-684c-49dc-9ced-6283063667f3" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/f001917f-e01a-45f4-9e91-d8035cec306e" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f65ce647-88a5-492d-a920-088d564dcee2" width="100%"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" width="100%"/></td>
   </tr>
 </table>
 </details>
