@@ -19,12 +19,14 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 <!-- ===== Tech Stack (clean, scannable) ===== -->
 ## 🧰 Tech Stack
 
+**AI**: LangChain, LangGraph  
+**AI tools**: Claude Code, Copilot  
 **Mobile**: React Native (Expo), Flutter  
 **Web App**: Next (Fullstack), Remix / React Router v7 (Fullstack), React  
 **Desktop**: Electron  
 **Backend**: Bun, Node.js, Hono, Express  
-**AI**: Claude Code, Copilot  
-**Design**: Figma
+**Design**: Figma  
+
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"/>
