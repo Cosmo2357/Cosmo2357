@@ -1,10 +1,14 @@
 <!-- ===== Header ===== -->
 <h1 align="center">Yufuki Hayashi</h1>
+
 <p align="center">
-  <b>Full-Stack Developer</b> — Next.js / React / React Native / Node.js / AWS
+  <b>🧠 AI</b> : LangChain / LangGraph / Claude Code
 </p>
 <p align="center">
-  Remote @ Japan IT company · Building a startup & an NPO · 🐱 Cat lover
+  <b>💻 📱 Full-Stack Developer</b> : Next.js / React / React Native / Node.js / AWS
+</p>
+<p align="center">
+  Remote @ 🇯🇵 Japan IT company · Building a startup & an NPO · 🐱 Cat lover
 </p>
 
 
