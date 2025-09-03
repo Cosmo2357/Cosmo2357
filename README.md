@@ -20,7 +20,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 ## 🧰 Tech Stack
 
 **AI**: LangChain, LangGraph  
-**AI tools**: Claude Code, Copilot  
+**AI Tools**: Claude Code, Copilot  
 **Mobile**: React Native (Expo), Flutter  
 **Web App**: Next (Fullstack), Remix / React Router v7 (Fullstack), React  
 **Desktop**: Electron  
