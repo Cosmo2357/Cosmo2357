@@ -67,9 +67,9 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     <td><img src="https://github.com/user-attachments/assets/f65ce647-88a5-492d-a920-088d564dcee2" width="100%"/></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/user-attachments/assets/bcb0bb71-6bf3-4bcc-8bcd-c9ab9ac737af" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" width="100%"/></td>
-    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" width="100%"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f2dfdb8b-f714-430f-ab62-9c75e08f558c" width="100%"/></td>
@@ -84,9 +84,13 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b93b7f24-684c-49dc-9ced-6283063667f3" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/f001917f-e01a-45f4-9e91-d8035cec306e" width="100%"/></td>
+    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" width="100%"/></td>
   </tr>
 </table>
 </details>
+
+
+
 
 <!-- ===== Projects ===== -->
 ## 🚀 Featured Projects
