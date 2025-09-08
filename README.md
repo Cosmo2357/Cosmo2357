@@ -52,7 +52,10 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dda4d694-c339-41c9-8a0a-d53620d0dfec" alt="gp2-1" width="160" height="auto"/>
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ea569829-f9a8-43e6-87a6-a0f4b59b63fb" alt="gp2-2" width="160" height="auto"/>
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/237f809b-91e9-46c9-a089-58bd1003f7f1" alt="gp2-3" width="160" height="auto"/>
+</p>
+<p align="center">
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/85f424c4-79d5-4d03-b486-c5b655d0581f" alt="gp2-4" width="160" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/0d2b4e55-b5f1-4ed2-8bf2-85e141a38e56" alt="gp2-4" width="140" height="auto"/>
 </p>
 
 <!-- ===== Certificates ===== -->
