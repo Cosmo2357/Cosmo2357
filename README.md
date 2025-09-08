@@ -52,10 +52,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/dda4d694-c339-41c9-8a0a-d53620d0dfec" alt="gp2-1" width="160" height="auto"/>
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ea569829-f9a8-43e6-87a6-a0f4b59b63fb" alt="gp2-2" width="160" height="auto"/>
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/237f809b-91e9-46c9-a089-58bd1003f7f1" alt="gp2-3" width="160" height="auto"/>
-</p>
-<p align="center">
   <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/85f424c4-79d5-4d03-b486-c5b655d0581f" alt="gp2-4" width="160" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/0d2b4e55-b5f1-4ed2-8bf2-85e141a38e56" alt="gp2-4" width="140" height="auto"/>
 </p>
 
 <!-- ===== Certificates ===== -->
@@ -72,7 +69,10 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <tr>
     <td><img src="https://github.com/user-attachments/assets/bcb0bb71-6bf3-4bcc-8bcd-c9ab9ac737af" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1eb19468-f7aa-4dc6-9382-8477e8e6c597" width="100%"/></td>
+
+
+
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f2dfdb8b-f714-430f-ab62-9c75e08f558c" width="100%"/></td>
@@ -88,6 +88,9 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     <td><img src="https://github.com/user-attachments/assets/b93b7f24-684c-49dc-9ced-6283063667f3" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/f001917f-e01a-45f4-9e91-d8035cec306e" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" width="100%"/></td>
   </tr>
 </table>
 </details>
