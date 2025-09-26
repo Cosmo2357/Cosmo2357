@@ -20,7 +20,7 @@
 Hi! I'm a full-stack developer working remotely in Japan.  
 I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 
-## ❤️ Donor
+## Donor
 [![UNICEF](https://img.shields.io/badge/UNICEF-00AEEF?style=for-the-badge&logo=unicef&logoColor=white)]([https://www.unicef.org/](https://www.unicef.or.jp/bof/bo.html))
 
 ##
