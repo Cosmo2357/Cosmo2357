@@ -11,6 +11,8 @@
   Remote @ 🇯🇵 Japan IT company · Building a startup & an NPO · 🐱 Cat lover
 </p>
 
+<hr/>
+
 #### Donor
 [![UNICEF](https://img.shields.io/badge/UNICEF-00AEEF?style=for-the-badge&logo=unicef&logoColor=white)]([https://www.unicef.org/](https://www.unicef.or.jp/bof/bo.html))
 
