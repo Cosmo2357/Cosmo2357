@@ -59,8 +59,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 <!-- ===== Certificates ===== -->
 ## 🏅 Certificates
 
-### 🎓 Universities
-
 <table>
   <tr>
     <td align="center" valign="top" width="33.3%">
@@ -77,8 +75,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     </td>
   </tr>
 </table>
-
-### 📜 Professional &amp; Vendor Certificates
 
 <sub><b>Latest:</b> Penetration Testing with OWASP ZAP — CodeRed (Oct 2026)</sub>
 
