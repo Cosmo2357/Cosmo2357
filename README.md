@@ -65,12 +65,12 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 
 <table>
   <tr>
-    <td><img src="assets/certificates/2026-10-codered-owasp-zap-pentest.jpg" alt="CodeRed — Penetration Testing with OWASP ZAP (Oct 2026)" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/de0ffbcb-1269-4875-b234-ee0d5441b6b4" width="100%"/></td>
     <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/ded89c3a-7495-4f51-9d28-a44438f4c1ed" width="100%"/></td>
+    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/e4314285-b555-492d-b243-b76f7fc901b5" width="100%"/></td>
+    <td><img src="assets/certificates/2026-10-codered-owasp-zap-pentest.jpg" alt="CodeRed — Penetration Testing with OWASP ZAP (Oct 2026)" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/718dd92a-7b39-4ab7-839d-0346c8285923" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" width="100%"/></td>
   </tr>
