@@ -31,7 +31,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     </tr>
     <tr>
       <td align="right" nowrap><b>🌐 Web</b></td>
-      <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/></td>
+      <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/></td>
     </tr>
     <tr>
       <td align="right" nowrap><b>📱 Mobile</b></td>
