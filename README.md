@@ -213,10 +213,3 @@ This system is built upon TLE (Two-Line Element Set) data provided by Space-Trac
 <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/3a2e24bf-a33c-4a34-bffb-e13b3801d1fa" width="60%"/>
 </details>
 
-<!-- ===== Stats ===== -->
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cosmo2357&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmo2357&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
-</p>
