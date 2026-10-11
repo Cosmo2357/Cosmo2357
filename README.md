@@ -16,6 +16,7 @@
   <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white"/>
   <img alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9"/>
   <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
@@ -42,7 +43,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 | 🤖 **AI Tools** | Claude Code, GitHub Copilot |
 | 📱 **Mobile** | React Native (Expo), Flutter |
 | 🌐 **Web App** | Next.js (Full-stack), Remix / React Router v7 (Full-stack), React |
-| 🖥️ **Desktop** | Electron |
+| 🖥️ **Desktop** | Tauri, Electron |
 | ⚙️ **Backend** | Bun, Node.js, Hono, Express |
 | ☁️ **Cloud** | AWS |
 | 🎨 **Design** | Figma |
