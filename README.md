@@ -76,18 +76,31 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   </tr>
 </table>
 
-<sub><b>Latest:</b> Penetration Testing with OWASP ZAP — CodeRed (Oct 2026)</sub>
+<sub><b>Latest:</b> Metasploit for Beginners: Ethical Penetration Testing — Coursera (Oct 2026)</sub>
+
+### Security
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33.3%">
+      <img src="assets/certificates/2026-10-coursera-metasploit-beginners.jpg" alt="Metasploit for Beginners: Ethical Penetration Testing — Coursera · Oct 2026" width="100%"/><br/>
+      <sub><b>Metasploit for Beginners: Ethical Penetration Testing</b><br/>Coursera · Oct 2026<br/><code>Security</code></sub>
+    </td>
+    <td align="center" valign="top" width="33.3%">
       <img src="assets/certificates/2026-10-codered-owasp-zap-pentest.jpg" alt="Penetration Testing with OWASP ZAP — CodeRed · Oct 2026" width="100%"/><br/>
       <sub><b>Penetration Testing with OWASP ZAP</b><br/>CodeRed · Oct 2026<br/><code>Security</code></sub>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33.3%">
       <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/8b341931-cae7-4734-8746-638db557172c" alt="Google Cybersecurity — Google · Coursera" width="100%"/><br/>
       <sub><b>Google Cybersecurity</b><br/>Google · Coursera<br/><code>Security</code></sub>
     </td>
+  </tr>
+</table>
+
+### Other
+
+<table>
+  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/user-attachments/assets/718dd92a-7b39-4ab7-839d-0346c8285923" alt="Introduction to Model Context Protocol — Anthropic" width="100%"/><br/>
       <sub><b>Introduction to Model Context Protocol</b><br/>Anthropic<br/><code>AI</code></sub>
@@ -96,8 +109,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/user-attachments/assets/b39b2a65-82ef-4296-8a5e-92e6084b52ca" alt="Claude Code in Action — Anthropic" width="100%"/><br/>
       <sub><b>Claude Code in Action</b><br/>Anthropic<br/><code>AI</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/user-attachments/assets/f65ce647-88a5-492d-a920-088d564dcee2" alt="Claude Code: Software Engineering with Generative AI Agents — Vanderbilt University · Coursera" width="100%"/><br/>
       <sub><b>Claude Code: Software Engineering with Generative AI Agents</b><br/>Vanderbilt University · Coursera<br/><code>AI</code></sub>
@@ -106,6 +117,8 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/user-attachments/assets/bcb0bb71-6bf3-4bcc-8bcd-c9ab9ac737af" alt="Foundation: Introduction to LangGraph — LangChain Academy" width="100%"/><br/>
       <sub><b>Foundation: Introduction to LangGraph</b><br/>LangChain Academy<br/><code>AI</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/user-attachments/assets/1eb19468-f7aa-4dc6-9382-8477e8e6c597" alt="RAG with MongoDB — MongoDB" width="100%"/><br/>
       <sub><b>RAG with MongoDB</b><br/>MongoDB<br/><code>AI</code></sub>
@@ -114,8 +127,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/user-attachments/assets/f2dfdb8b-f714-430f-ab62-9c75e08f558c" alt="Google AI Essentials — Google · Coursera" width="100%"/><br/>
       <sub><b>Google AI Essentials</b><br/>Google · Coursera<br/><code>AI</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/6a39f36f-c352-4cea-9bc0-451407ec9a49" alt="Generative AI: Prompt Engineering Basics — IBM · Coursera" width="100%"/><br/>
       <sub><b>Generative AI: Prompt Engineering Basics</b><br/>IBM · Coursera<br/><code>AI</code></sub>
@@ -124,6 +135,8 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/cf3a3088-8abb-420e-aaad-69719e48b604" alt="Meta Front-End Developer — Meta · Coursera" width="100%"/><br/>
       <sub><b>Meta Front-End Developer</b><br/>Meta · Coursera<br/><code>Web</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/28f5321f-360e-4415-95f3-b52f2d37ab81" alt="Meta React Native — Meta · Coursera" width="100%"/><br/>
       <sub><b>Meta React Native</b><br/>Meta · Coursera<br/><code>Mobile</code></sub>
@@ -132,8 +145,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/user-attachments/assets/b93b7f24-684c-49dc-9ced-6283063667f3" alt="TypeScript Essential Training — LinkedIn Learning" width="100%"/><br/>
       <sub><b>TypeScript Essential Training</b><br/>LinkedIn Learning<br/><code>Web</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/user-attachments/assets/f001917f-e01a-45f4-9e91-d8035cec306e" alt="Learning Playwright — LinkedIn Learning" width="100%"/><br/>
       <sub><b>Learning Playwright</b><br/>LinkedIn Learning<br/><code>Testing</code></sub>
@@ -142,6 +153,8 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <img src="https://github.com/user-attachments/assets/e2a5b90f-426f-4600-8775-19782db5613f" alt="AWS Cloud Technical Essentials — AWS · Coursera" width="100%"/><br/>
       <sub><b>AWS Cloud Technical Essentials</b><br/>AWS · Coursera<br/><code>Cloud</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://github.com/Cosmo2357/Cosmo2357/assets/37522195/9486622c-e78a-4967-9df8-98fd386b9178" alt="Google Project Management — Google · Coursera" width="100%"/><br/>
       <sub><b>Google Project Management</b><br/>Google · Coursera<br/><code>Business</code></sub>
