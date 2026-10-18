@@ -27,7 +27,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <tbody>
     <tr>
       <td nowrap><b>AI</b></td>
-      <td><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white"/> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white"/> <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white"/></td>
+      <td><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white"/> <img alt="LLM / RAG" src="https://img.shields.io/badge/LLM%20%2F%20RAG-1C3C3C"/> <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-1C3C3C"/> <img alt="Object Detection" src="https://img.shields.io/badge/Object%20Detection-1C3C3C"/> <img alt="Pose Estimation" src="https://img.shields.io/badge/Pose%20Estimation-1C3C3C"/> <img alt="Speech-to-Text" src="https://img.shields.io/badge/Speech--to--Text-1C3C3C"/> <img alt="Text-to-Speech" src="https://img.shields.io/badge/Text--to--Speech-1C3C3C"/> <img alt="Image Generation" src="https://img.shields.io/badge/Image%20Generation-1C3C3C"/></td>
     </tr>
     <tr>
       <td nowrap><b>Security / Pentest</b></td>
