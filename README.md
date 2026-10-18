@@ -49,10 +49,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <td nowrap><b>Backend</b></td>
       <td><img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/> <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white"/> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></td>
     </tr>
-    <tr>
-      <td nowrap><b>Cloud</b></td>
-      <td nowrap><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E"/> <img src="assets/spacer.png" width="2000" height="1" alt=""/></td>
-    </tr>
   </tbody>
 </table>
 
