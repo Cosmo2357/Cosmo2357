@@ -20,6 +20,10 @@
 Hi! I'm a full-stack developer working remotely in Japan.
 I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 
+<p align="center">
+  <img src="assets/terminal.svg" alt="Animated terminal: whoami, nmap -sV localhost, claude" width="680"/>
+</p>
+
 <!-- ===== Tech Stack ===== -->
 <img src="assets/divider.svg" width="100%" alt=""/>
 
