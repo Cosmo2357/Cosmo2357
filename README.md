@@ -30,6 +30,10 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <td><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white"/> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white"/> <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white"/></td>
     </tr>
     <tr>
+      <td nowrap><b>Security / Pentest</b></td>
+      <td><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"/> <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white"/> <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white"/> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white"/> <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP-00549E?logo=owasp&logoColor=white"/> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/></td>
+    </tr>
+    <tr>
       <td nowrap><b>Web</b></td>
       <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/></td>
     </tr>
@@ -48,10 +52,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     <tr>
       <td nowrap><b>Cloud</b></td>
       <td nowrap><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E"/> <img src="assets/spacer.png" width="2000" height="1" alt=""/></td>
-    </tr>
-    <tr>
-      <td nowrap><b>Design</b></td>
-      <td><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
