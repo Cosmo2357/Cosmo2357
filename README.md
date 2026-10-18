@@ -35,7 +35,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     </tr>
     <tr>
       <td nowrap><b>Web</b></td>
-      <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/></td>
+      <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white"/> <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white"/></td>
     </tr>
     <tr>
       <td nowrap><b>Mobile</b></td>
@@ -44,10 +44,6 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
     <tr>
       <td nowrap><b>Desktop</b></td>
       <td><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white"/> <img alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9"/></td>
-    </tr>
-    <tr>
-      <td nowrap><b>Backend</b></td>
-      <td><img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/> <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white"/> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
