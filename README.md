@@ -159,10 +159,10 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 </table>
 
 <p align="center">
-  <img src="assets/img/p16.jpg" alt="Google Project Management" width="110"/>
-  <img src="assets/img/p19.jpg" alt="Google Cybersecurity" width="110"/>
-  <img src="assets/img/p05.jpg" alt="Meta Front-End Developer" width="110"/>
-  <img src="assets/img/p09.jpg" alt="IBM Generative AI" width="110"/>
+  <img src="assets/img/p16.png" alt="Google Project Management" width="110"/>
+  <img src="assets/img/p19.png" alt="Google Cybersecurity" width="110"/>
+  <img src="assets/img/p05.png" alt="Meta Front-End Developer" width="110"/>
+  <img src="assets/img/p09.png" alt="IBM Generative AI" width="110"/>
 </p>
 
 <!-- ===== Projects ===== -->
