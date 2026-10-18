@@ -34,7 +34,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <td><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"/> <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white"/> <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white"/> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white"/> <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP-00549E?logo=owasp&logoColor=white"/> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/></td>
     </tr>
     <tr>
-      <td nowrap><b>Web</b></td>
+      <td nowrap><b>Web App / API</b></td>
       <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white"/> <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white"/></td>
     </tr>
     <tr>
