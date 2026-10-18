@@ -208,7 +208,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
   <tr>
     <td align="center" valign="top" width="33.3%">
       <a href="https://github.com/Cosmo2357/pentest-lab-notes">
-        <img src="https://raw.githubusercontent.com/Cosmo2357/pentest-lab-notes/master/images/hero.jpg" alt="pentest-lab-notes" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Cosmo2357/pentest-lab-notes/master/docs/images/hero.jpg" alt="pentest-lab-notes" width="100%"/>
       </a>
       <br/><b>pentest-lab-notes</b><br/>
       <sub>2026 · Nmap · Metasploit · Kali Linux · 攻撃の一連の流れを手を動かして学ぶ練習ノート（日英）</sub><br/>
