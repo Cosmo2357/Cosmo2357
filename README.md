@@ -21,6 +21,8 @@ Hi! I'm a full-stack developer working remotely in Japan.
 I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 
 <!-- ===== Tech Stack ===== -->
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## Tech Stack
 
 <table>
@@ -49,6 +51,8 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 </table>
 
 <!-- ===== Certificates ===== -->
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## Certificates
 
 <table>
@@ -166,6 +170,8 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 </p>
 
 <!-- ===== Projects ===== -->
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## Featured Projects
 
 <table>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="10" viewBox="0 0 1200 10" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="flowg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="0.33" stop-color="#2dd4bf"/><stop offset="0.66" stop-color="#60a5fa"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="edgeFade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.12" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.88" stop-color="#ffffff" stop-opacity="1"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade"><rect width="1200" height="10" fill="url(#edgeFade)"/></mask>
+  </defs>
+  <style>
+    .f{animation:flow 8s linear infinite}
+    @keyframes flow{from{transform:translateX(-1200px)}to{transform:translateX(0)}}
+    @media (prefers-reduced-motion: reduce){.f{animation:none}}
+  </style>
+  <g mask="url(#fade)">
+    <g class="f"><rect y="4" width="2400" height="2" rx="1" fill="url(#flowg)" opacity="0.85"/></g>
+  </g>
+</svg>
