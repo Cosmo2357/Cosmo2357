@@ -95,7 +95,7 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
       <sub><b>Google Cybersecurity</b><br/>Google · Coursera<br/><code>Security</code></sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://cosmo2357.github.io/pentest-lab-notes/certificate/">
+      <a href="https://github.com/Cosmo2357/Cosmo2357/blob/main/assets/certificates/2026-10-pentest-lab-course-final.pdf">
         <img src="assets/certificates/2026-10-pentest-lab-course-final.jpg" alt="Certificate of Completion: Final Assessment — pentest-lab-course · Oct 2026" width="100%"/>
       </a><br/>
       <sub><b>Certificate of Completion: Final Assessment</b><br/>pentest-lab-course · Oct 2026<br/><code>Security</code> <code>Self-issued</code></sub><br/>
