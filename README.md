@@ -82,29 +82,25 @@ I'm preparing to launch a startup and an NPO. Feel free to reach out anytime!
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <img src="assets/certificates/2026-10-coursera-metasploit-beginners.jpg" alt="Metasploit for Beginners: Ethical Penetration Testing — Coursera · Oct 2026" width="100%"/><br/>
       <sub><b>Metasploit for Beginners: Ethical Penetration Testing</b><br/>Coursera · Oct 2026<br/><code>Security</code></sub>
     </td>
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <img src="assets/certificates/2026-10-codered-owasp-zap-pentest.jpg" alt="Penetration Testing with OWASP ZAP — CodeRed · Oct 2026" width="100%"/><br/>
       <sub><b>Penetration Testing with OWASP ZAP</b><br/>CodeRed · Oct 2026<br/><code>Security</code></sub>
     </td>
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <img src="assets/img/p10.jpg" alt="Google Cybersecurity — Google · Coursera" width="100%"/><br/>
       <sub><b>Google Cybersecurity</b><br/>Google · Coursera<br/><code>Security</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <a href="https://cosmo2357.github.io/pentest-lab-notes/certificate/">
         <img src="assets/certificates/2026-10-pentest-lab-course-final.jpg" alt="Certificate of Completion: Final Assessment — pentest-lab-course · Oct 2026" width="100%"/>
       </a><br/>
       <sub><b>Certificate of Completion: Final Assessment</b><br/>pentest-lab-course · Oct 2026<br/><code>Security</code> <code>Self-issued</code></sub><br/>
       <sub>👨‍🏫 Built the course · 🧑‍💻 Took the course · ✅ Passed the course · 📜 Issued it to myself — I just wanted a hacker-looking certificate 😜</sub>
     </td>
-    <td width="33.3%"></td>
-    <td width="33.3%"></td>
   </tr>
 </table>
 
